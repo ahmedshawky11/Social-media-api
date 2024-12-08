@@ -253,14 +253,4 @@ On Insomnia, the following API routes have been created and used to add, update,
 
   ---
   ## Author 📌
-  Jane Tiglao
-
-  ---
-  ## Questions 📌 
-  For questions or issues, please contact: 
-  - Jane Tiglao 
-  - Email: janeytiglao@gmail.com
-  - GitHub Username: jbtiglao
-  - GitHub Profile: https://github.com/jbtiglao
-
-
+  Ahmed Shawky
