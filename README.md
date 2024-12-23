@@ -9,15 +9,6 @@ This is an API for a social network web application where users can share their 
 <img width="1380" alt="image1_social-media-api-insomnia" src="https://user-images.githubusercontent.com/94569484/167376248-b824a670-d62a-49bc-b1f1-b6d3c8836e5c.png">
 
 
-To see how the API works using Insomnia, see the **walk-through demonstration videos** here:
-
-* [User Routes](https://drive.google.com/file/d/1vATUYGYqmK8ixaTrdq78J7NV95eTX112/view)
-* [Friend Routes](https://drive.google.com/file/d/1dgRadPEfgyq9ELoz-bKzoqlW6SU-Q1bd/view)
-* [Thought Routes](https://drive.google.com/file/d/1bSaxRDOr6DB3RVDTEBH2RXNu-fdMkEJ2/view)
-* [Reaction Routes](https://drive.google.com/file/d/10Pfe7YwvYndorHrBQNautqRnRgqSQzhM/view)
-
-The application **files** can be accessed on my [GitHub Repository](https://github.com/jbtiglao/social-media-API).
-
   ---
   ## Table of Contents 📌
   1. [Title](#title)
@@ -237,15 +228,6 @@ On Insomnia, the following API routes have been created and used to add, update,
 📁 **REACTION**
   * Create a reaction: `POST /api/thoughts/:thoughtId/reactions`
   * Delete a reaction by the `reactionId`: `DEL /api/thoughts/:thoughtId/reactions/:reactionId`
-  
-  ---
-  ## Credits 📌
-  The following applications and resources were consulted and/or utilized in the development of this application:
-  
-  * UCI Boot Camp study materials and internet resources.
-  * [MongoDB Documentation](https://www.mongodb.com/docs/manual/reference/connection-string/)
-  * [Insomnia](https://insomnia.rest/)
-  * [How to Install MongoDB on Mac by MammothInteractive](https://www.youtube.com/watch?v=4crXgQZG4W8&t=40s)
 
   ---
   ## Author 📌
